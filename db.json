@@ -304,19 +304,19 @@
     "users": [{
             "id": 1,
             "username": "John",
-            "email": "mensah33@gmail.com",
+            "email": "john33@gmail.com",
             "password": "password1"
         },
         {
             "id": 2,
             "username": "Mark",
-            "email": "mensah33@gmail.com",
+            "email": "mark33@gmail.com",
             "password": "password2"
         },
         {
             "id": 2,
-            "username": "Jean",
-            "email": "mensah33@gmail.com",
+            "username": "Francois",
+            "email": "francois33@gmail.com",
             "password": "password3"
         }
     ]
